@@ -1,0 +1,2 @@
+tA = (90, 90, 90, 90, 90)
+print(all(x == tA[0] for x in tA))
